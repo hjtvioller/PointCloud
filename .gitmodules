@@ -1,3 +1,9 @@
 [submodule "PointNet"]
 	path = PointNet
 	url = https://github.com/hjtvioller/PointNet
+[submodule "PointNet-Pytorch"]
+	path = PointNet-Pytorch
+	url = https://github.com/hjtvioller/PointNetPytorch
+[submodule "PointNet-Tensorflow"]
+	path = PointNet-Tensorflow
+	url = https://github.com/hjtvioller/PointNet
