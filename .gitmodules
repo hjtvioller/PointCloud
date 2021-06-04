@@ -10,3 +10,6 @@
 [submodule "PointNet/PointNet-Tensorflow"]
 	path = PointNet/PointNet-Tensorflow
 	url = https://github.com/hjtvioller/PointNet
+[submodule "PointNet/PointNet-Pytorch"]
+	path = PointNet/PointNet-Pytorch
+	url = https://github.com/hjtvioller/PointNetPytorch
